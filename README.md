@@ -12,4 +12,4 @@ Editor taken from official three.js editor:
 
 Github public site:
 
-https://
+[https://](https://flipped-energy.github.io/three.js-editor-3d-spacemouse/)
